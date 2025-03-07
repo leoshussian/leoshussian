@@ -1,6 +1,16 @@
-## Hi there 👋
+## Hi 👋 
+My name is **Leo Hussain**. I'm a student at Concordia University, in Montreal, Quebec. 
+
+I've been obsessed with anything computer-related for as long as I remember. Recently, I've discovered my love for statistics too. It won't surprise you then that I'm persuing a Bachelors of Computer Science **Joint Major in Data Science**. 
+
+### What am I up to now?
+Currently, I'm finallizing my rewrite my study on **the correlation between household income, population density, and Montreal public transit quality** to bring it up to code.
+This independent study that I developped in my final months at Dawson College was what pushed me into the wonderful world of data science. It's been massively rewarding to apply the valuable skills and techniques that I have learnt in my time so far at Concordia University to rewrite this project.
+
 
 <!--
+### What are my passions?
+
 **leoshussian/leoshussian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
